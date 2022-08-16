@@ -1,0 +1,49 @@
+
+body{
+  background-color: #111;
+}
+.Banner {
+  background: #FBCB00;
+}
+.mycard{
+  width: 22rem;
+  height: 35rem;
+  background: #111;
+  border-color:#FBCB00;
+  color: #fff;
+}
+.newscard{
+  margin: auto;
+  background: #fff;
+  border-color:#FBCB00;
+  color: #111;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 75%;
+}
+.myHeading {
+  height: 200px;
+}
+
+
+.display-3{
+  color:#FBCB00;
+}
+footer{
+  background: #111;
+
+}
+.myfooter{
+  background: #FBCB00;
+}
+.footertxt{
+  color: #111;
+}
+.footerline{
+  width: 60px;
+  background-color: #FBCB00;
+  height: 2px
+}
+a{
+text-decoration: none;
+}
